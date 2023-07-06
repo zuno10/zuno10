@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shrikrishna soni.
-- 👀 I’m interested in Deep learning and AI
-- 🌱 I’m currently learning Hugging Face
+- 👀 I’m interested in Machine Learning,Data Science,Deep learning and AI
+- 🌱 I’m currently learning Generative AI and LLM
 - 💞️ I’m looking for people with simmilier interest
 - 📫 How to reach me : shrikrishnasoni111@gmail.com
 
