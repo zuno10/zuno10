@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shrikrishna soni.
 - 👀 I’m interested in Machine Learning,Data Science,Deep learning and AI
 - 🌱 I’m currently learning Generative AI and LLM
-- 💞️ I’m looking for people with simmilier interest
+- 💞️ I’m Happy to connect with person with similiar interest
 - 📫 How to reach me : shrikrishnasoni111@gmail.com
 
 <!---
